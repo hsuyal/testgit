@@ -3,3 +3,5 @@
 33333333333333333333333333333333333333333333333333
 git is a version control
 yuiwahrfqweyyrfUIoh俘虏凤凰娱乐文琼呕吐【 
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
