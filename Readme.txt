@@ -7,3 +7,4 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 
 大家好才是真的好
+$ cat readme.txt
