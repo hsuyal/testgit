@@ -8,3 +8,4 @@ Git is free software distributed under the GPL.
 
 大家好才是真的好
 $ cat readme.txt
+你你您你
